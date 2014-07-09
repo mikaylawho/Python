@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #Tic-Tac-Toe 3 - check for winner (page 53-54)
-#edit to check GitHub
+#edit to check GitHub (second time)
 
 board = [ 'O', 'X', ' ', 'O', ' ', 'X', 'O', 'X', 'X' ]
 wins = [[0,1,2],[3,4,5],[6,7,8],[0,3,6],[1,4,7],[2,5,8],[0,4,8],[2,4,6]]
